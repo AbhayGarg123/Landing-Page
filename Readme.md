@@ -26,7 +26,6 @@ A pixel-perfect, highly responsive landing page inspired by modern workspace too
 ## 📁 Project Structure
 
 ```text
-├── node_modules/          # Project packages and Tailwind compiler
 ├── girl1.png              # Team member avatar 1
 ├── user2.png              # Team member avatar 2
 ├── user3.png              # Team member avatar 3
